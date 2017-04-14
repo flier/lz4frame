@@ -1,0 +1,12 @@
+[package]
+name = "lz4frame"
+version = "0.1.0"
+authors = ["Flier Lu <flier.lu@gmail.com>"]
+
+[dependencies]
+log = "0.3"
+error-chain = "0.10"
+bitflags = "0.8"
+byteorder = "0.5"
+lz4-compress = "0.1"
+xxhash2 = "0.1"
